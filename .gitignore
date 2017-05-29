@@ -68,7 +68,7 @@ modules.xml
 # ignore some data files
 target/
 out/
-conf/part/part*
+conf/
 *.class
 
 # Mobile Tools for Java (J2ME)
